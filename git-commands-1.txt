@@ -1,0 +1,8 @@
+git init
+git status
+git confif user.name
+git config user.email
+git add
+git commit -m ""
+git log
+git diff <filename>
